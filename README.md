@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jerdzo
 - 👀 I’m interested in Web Design Frontend
-- 🌱 I’m currently learning HTML5, CSS3, Javascript and React
+- 🌱 I’m currently learning HTML5, CSS3, Javascript, React... Now Python.
 - 💞️ I’m looking to collaborate on all about coding Web Design
 - 📫 How to reach me Jerdzo
 
